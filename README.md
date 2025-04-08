@@ -1,4 +1,4 @@
-# ICS 46 Homework 2
+# ICS 46 Homework 3
 
 For Homework 3, we will be implementing sorted lists.
 
