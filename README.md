@@ -17,6 +17,7 @@ following folder structure:
 
 ```bash
 .
+├── .Analysis_46HW3.pdf
 ├── CMakeLists.txt
 ├── gtest
 │   └── <CLASSNAME>_gtests.cpp
